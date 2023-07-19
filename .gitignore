@@ -2,8 +2,11 @@
 
 # dependencies
 /node_modules
+<<<<<<< HEAD
 node_modules/
 frontend/node_modules
+=======
+>>>>>>> a32ac8a85622925231dcd4dd9fdec1efc1583758
 /.pnp
 .pnp.js
 
@@ -14,7 +17,10 @@ frontend/node_modules
 /build
 
 # misc
+<<<<<<< HEAD
 .env
+=======
+>>>>>>> a32ac8a85622925231dcd4dd9fdec1efc1583758
 .DS_Store
 .env.local
 .env.development.local
